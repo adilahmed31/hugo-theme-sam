@@ -1,3 +1,3 @@
-module github.com/victoriadrake/hugo-theme-sam
+module github.com/adilahmed31/hugo-theme-sam
 
 go 1.12
